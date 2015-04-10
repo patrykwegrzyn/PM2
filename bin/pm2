@@ -595,6 +595,15 @@ commander.command('backward <name>')
   });
 
 //
+// Perform a heapdump for PM2 itself or a specific app
+//
+commander.command('heapdump [id]')
+  .description('performs a heapdump for PM2 itself or a specific app')
+  .action(function(id) {
+    CLI.heapdump(id);
+  });
+
+//
 // Catch all
 //
 commander.command('*')
