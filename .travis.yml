@@ -6,6 +6,7 @@ branches:
     - development
     - api
     - travis
+    - heapdump
 node_js:
    - "iojs"
    - "0.12"
