@@ -9,10 +9,19 @@ branches:
     - heapdump
 node_js:
    - "iojs"
+   - "iojs-v1.0.0"
+   - "iojs-v1.1.0"
+   - "iojs-v1.2.0"
+   - "iojs-v1.3.0"
+   - "iojs-v1.4.0"
+   - "iojs-v1.5.0"
    - "0.12"
+   - "0.12.1"
    - "0.12.0"
    - "0.11"
+   - "0.11.0"
    - "0.10"
+   - "0.10.0"
 os:
   - linux
   - osx
