@@ -68,6 +68,9 @@
   "autorestart" : {
     "type": "boolean"
   },
+  "log" : {
+    "type": "boolean"
+  },
   "watch": {
     "type": [
       "boolean",
