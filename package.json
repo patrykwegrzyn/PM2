@@ -162,6 +162,8 @@
 
     "pmx"                 : "latest",
     "vizion"              : "latest",
+    "https-proxy-agent"   : "latest",
+    "http-proxy-agent"    : "latest",
 
     "pm2-axon"            : "latest",
     "pm2-axon-rpc"        : "0.3.6",
