@@ -173,7 +173,8 @@
 
     "shelljs"             : "0.5.1",
     "isbinaryfile"        : "^2.0.3",
-    "semver"              : "4.3.6"
+    "semver"              : "4.3.6",
+    "jsondiffpatch"       : "^0.1.33"
   },
   "devDependencies": {
     "mocha"           : "^1.20.1",
